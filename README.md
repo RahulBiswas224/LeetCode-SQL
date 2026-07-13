@@ -17,10 +17,7 @@ The solutions are neatly organized by difficulty level. Inside each folder, you 
 ```text
 📦 LeetCode-DBMS
  ┣ 📂 Easy
- ┃ ┣ 📜 
- ┃ ┗ 📜 
- ┣ 📂 Medium
- ┃ ┣ 📜 
- ┃ ┗ 📜 
+ ┃ 
+ ┣ 📂 Medium 
+ ┃ 
  ┗ 📂 Hard
-   ┗ 📜
